@@ -1,6 +1,5 @@
-## Olá! Seja bem-vindo ao meu perfil. 
+## Olá! Seja bem-vindo ao meu perfil.
 
-<!--
 **🔥 Trabalho atualmente em um projeto pessoal (STORMC)
 
 ➟ INFOS:
