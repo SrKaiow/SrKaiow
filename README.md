@@ -13,6 +13,12 @@
   <a href="mailto:kaiomartins.uk@gmail.com" title="kaiomartins.uk@gmail.com"><img src="https://img.shields.io/badge/E--mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C19A6B" alt="E-mail" /></a>
 </p>
 
+<div align="center">
+  <a href="https://www.instagram.com/kaiomartins_s/" title="Clique e veja os bastidores — @kaiomartins_s">
+    <img src="./robot.svg" width="480" alt="Robô com um segredo" />
+  </a>
+</div>
+
 <h2>Sobre mim</h2>
 
 <table>
@@ -67,22 +73,6 @@
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" />
 </p>
-
-<br/>
-
-<div align="center">
-<details>
-  <summary><img src="./robot.svg" width="480" title="Ele quer te contar algo..." alt="Robô com um segredo" /></summary>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1200&color=C19A6B&center=true&vCenter=true&width=620&lines=Eu+sabia+que+voc%C3%AA+ia+clicar.;Curiosidade+%C3%A9+o+primeiro+passo+de+todo+neg%C3%B3cio.;Os+bastidores+est%C3%A3o+logo+ali." alt="Mensagem secreta" />
-  <br/><br/>
-  <a href="https://www.instagram.com/kaiomartins_s/" title="Ver os bastidores — @kaiomartins_s">
-    <img src="https://img.shields.io/badge/Ver_os_bastidores-@kaiomartins__s-C19A6B?style=for-the-badge&logo=instagram&logoColor=C19A6B&labelColor=0A0A0A" alt="Instagram @kaiomartins_s" />
-  </a>
-  <br/>
-  <sub>Você chegou até aqui. Agora termine o que começou.</sub>
-</details>
-</div>
 
 <h2>Contato</h2>
 
